@@ -1,7 +1,7 @@
 # GNU_Makefile
 This tool shall automate the compilation process and the linking process and visualize the progress of the build process kind of progress bar.
 
-This Make file contain 6 main recipes:
+#This Make file contain 6 main recipes:
 	depend:This recipy shall generate the dependences files. 
 	onlyCompile:This recipy shall generate the object files.
 	link:This recipy shall link all object files and generate the excutable files. 
